@@ -1,8 +1,19 @@
-## 👋 Hi there
+<!--
+<div align="center">
+   <h1>Hi there, I'm Hossein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"> </h1>
+</div>
+-->
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hossein+Jalali.....;Nice+to+meet+you!&center=true&size=30&color=008000&width=500">
+</h1>
+
+
+ 
 - 🔭 I’m currently working on `Optimization algorithms`, `Feature selection methods` and `Machine learning models`
-- 🌱 I’m currently learning **SQL** and many things about **Muli-objective and single-objective optimization algorithms** and **ML**.
+- :octocat: I’m currently learning **SQL** and many things about **Muli-objective and single-objective optimization algorithms** and **ML**.
 - I ❤️ open source software
+- 👨 Pronouns: he/him
 ## 🎓 Graduation
  ![image](https://user-images.githubusercontent.com/109721381/180705155-03b135bc-9e5d-4ae7-bc54-c1a155bcd2f6.png)
 - B.E. degree in electrical engineering
@@ -21,6 +32,7 @@
 ![icons8-arduino-48](https://user-images.githubusercontent.com/109721381/180722439-5cadb75e-0420-4e43-81d3-b30adf5b10f1.png)
 ![icons8-sublime-text-48](https://user-images.githubusercontent.com/109721381/180722469-3e79c257-4e2c-4bb1-b56c-c690af89d90c.png)
 ![icons8-notepad++-48](https://user-images.githubusercontent.com/109721381/180722488-6b2cdb73-f349-4a06-88b5-0523ede1e870.png)
+---
 
 
 
@@ -35,7 +47,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 - I ❤️ Open Source Software
 -->
