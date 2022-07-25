@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hossein+Jalali.....;Nice+to+meet+you!&center=true&size=30&color=008000&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hossein+Jalali.....;Nice+to+meet+you!&center=true&size=30&color=5D6D7E&width=500">
 </h1>
 
 
