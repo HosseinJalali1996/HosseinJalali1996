@@ -16,8 +16,8 @@
 - 👨 Pronouns: he/him
 ## 🎓 Graduation
  ![image](https://user-images.githubusercontent.com/109721381/180705155-03b135bc-9e5d-4ae7-bc54-c1a155bcd2f6.png)
-- B.E. degree in electrical engineering
-- M.S. degree in Department of Energy Systems Engineering
+- B.E. degree in electrical engineering.
+- M.S. degree in Department of Energy Systems Engineering. My supervisor is [Dr. Farshid keynia](https://orcid.org/0000-0002-9027-7315).
 ## 💻 Languages and Tools:
 ![icons8-python-48](https://user-images.githubusercontent.com/109721381/180719254-b5213cb5-3ca0-4fed-95fb-5b6e9b5c64d2.png)
 ![icons8-matlab-48](https://user-images.githubusercontent.com/109721381/180719650-28ca1544-81fa-425a-a8b4-6f9e3a1c10e3.png)
